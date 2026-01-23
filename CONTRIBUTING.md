@@ -4,9 +4,9 @@
 
 There are of course an infinite number of optimization problems one could pose in mathematics.  To avoid proliferation, one should preferably focus on constants that
 
-- have a significant existing mathematical literature on upper and lower bounds, and
-- are still actively being researched
-- are at least somewhat amenable to computational approaches for either upper or lower bounds
+- have a significant existing mathematical literature, including incremental improvements on bounds;
+- are still actively being researched; and
+- are at least somewhat amenable to computational approaches for either upper or lower bounds.
 
 However, exceptions could be made for constants of particular mathematical interest for reasons other than those listed above.
 
