@@ -1,49 +1,27 @@
-# [Problem Name]
+# [Constant name]
 
-## Problem Statement
+## Description of constant
 
-[Clear mathematical description of the problem. Include the inequality or optimization problem, defining all variables and constraints.]
+[Clear mathematical description of the constant $C_N$ one wishes to bound, where $N$ is the number of the file.]
 
-## Optimal Constant
+## Known upper bounds
 
-**Status**: [Known/Unknown/Conjectured]
+| Bound | Reference | Comments |
+| ----- | --------- | -------- |
+| [Value] | [Citation] | [Any comments] |
 
-**Value**: [If known, state the exact value or best-known bounds]
+Results should be arranged in chronological order, and can include bounds that are inferior to the previous bounds.
 
-## Current Best Bounds
+## Known lower bounds
 
-### Upper Bound
+| Bound | Reference | Comments |
+| ----- | --------- | -------- |
+| [Value] | [Citation] | [Any comments] |
 
-- **Value**: [numerical value or expression]
-- **Reference**: [Author(s), Year, Paper/Book title]
-- **Note**: [Optional: brief description of the method or significance]
+## Additional comments
 
-### Lower Bound
-
-- **Value**: [numerical value or expression]
-- **Reference**: [Author(s), Year, Paper/Book title]
-- **Note**: [Optional: brief description of the method or significance]
-
-## History
-
-- **[Year]**: [Description of result by Author(s)]
-- **[Year]**: [Description of improvement by Author(s)]
-- ...
+[Can add links to other problems here]
 
 ## References
 
-1. [Full citation of key papers]
-2. [Additional references]
-
-## Related Problems
-
-- [Link to related problem in this repository]
-- [Link to related problem in this repository]
-
-## Notes
-
-[Any additional context, conjectures, open questions, or discussion that doesn't fit in the above sections]
-
-## Last Updated
-
-[Date] - [Brief description of update]
+- [Add references here in standard format]
