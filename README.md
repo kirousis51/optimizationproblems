@@ -36,6 +36,20 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 
 This site is maintained by Damek Davis, Paata Ivanisvili and Terence Tao.
 
+## How to cite this repo
+
+Use this BibTeX entry:
+
+```
+@misc{optimization-constants-repo,
+  title = {Optimization Constants in Mathematics},
+  author = {Davis, Damek and Ivanisvili, Paata and Tao, Terence and contributors},
+  year = {2026},
+  howpublished = {GitHub repository},
+  url = {https://github.com/teorth/optimizationproblems}
+}
+```
+
 ## Related sites
 
 - [Leaps in Bounds](https://leapsinbounds.org/) - a repository of progress on mathematical unknowns
