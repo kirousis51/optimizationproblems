@@ -45,7 +45,9 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [26a](https://teorth.github.io/optimizationproblems/constants/26a.html) | Bohnenblust--Hille constant on the Boolean cube | $2$ | $\infty$ |
 | [27](https://teorth.github.io/optimizationproblems/constants/27a.html) | Chromatic number of the plane | 5 | 7 |
 
+## Recent progress
 
+- [11b](https://teorth.github.io/optimizationproblems/constants/11b.html) **solved:** $C_{11b} = 0.5$ by P. Durcik, P. Ivanisvili, J. Roos, and X. Xie (paper coming soon).
 
 ## Maintainers
 
