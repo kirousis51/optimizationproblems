@@ -86,6 +86,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [57b](https://teorth.github.io/optimizationproblems/constants/57b.html) | Landau's constant | $\frac{1}{2}+10^{-335}$ | $\dfrac{\Gamma(1/3)\Gamma(5/6)}{\Gamma(1/6)}\approx 0.5433$ |
 | [57c](https://teorth.github.io/optimizationproblems/constants/57c.html) | Univalent Bloch constant | 0.5708858 | 1 |
 | [58](https://teorth.github.io/optimizationproblems/constants/58a.html) | Zaremba’s conjecture constant | 5 | $\infty$ |
+| [59](https://teorth.github.io/optimizationproblems/constants/59a.html) | Bohr radius for the bidisc | 0.3006 | 0.3177 |
 
 
 ## Recent progress
