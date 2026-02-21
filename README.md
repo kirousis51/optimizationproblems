@@ -93,6 +93,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [62b](https://teorth.github.io/optimizationproblems/constants/62b.html) | Burgess-quality subconvexity exponent for Dirichlet $L$-functions | 0 | $\frac{3}{16}$ |
 | [63](https://teorth.github.io/optimizationproblems/constants/63a.html) | Dirichlet divisor problem exponent | $1/4$ | $\frac{131}{416}$ |
 | [64](https://teorth.github.io/optimizationproblems/constants/64a.html) | Gauss circle problem exponent | 0 | $\frac{131}{208}$ |
+| [65](https://teorth.github.io/optimizationproblems/constants/65a.html) | Linnik's constant | 1 | 5 |
 
 
 ## Recent progress
